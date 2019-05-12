@@ -4,4 +4,6 @@ Git is free software.
 Hai Hai 
 What are you thinking about?
 
-creating a new branch dev 
+creating a new branch dev
+
+fix bug
